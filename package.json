@@ -14,7 +14,7 @@
 	"author": "David Schwarz <schwarz.david10@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@knopkem/bootstrap-email": "^1.2.11",
+		"@knopkem/bootstrap-email": "github:knopkem/bootstrap-email",
 		"plugin-error": "^2.0.1",
 		"through2": "^4.0.2"
 	},

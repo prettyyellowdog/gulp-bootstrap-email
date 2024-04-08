@@ -1,4 +1,4 @@
-const BootstrapEmail = require('bootstrap-email');
+const BootstrapEmail = require('@knopkem/bootstrap-email');
 const through = require('through2');
 const PluginError = require('plugin-error');
 const path = require('path');
